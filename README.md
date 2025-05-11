@@ -13,4 +13,9 @@ Este proyecto fue desarrollado como parte de una práctica académica, con el ob
 - **Java** (lógica del CRUD)
 - **MySQL** (modelado y manejo de la base de datos)
 
+- ## Team
+- **Antonio Benitez Lopez** 
+- **Vianey Azamar Lopez** 
+
+
 
